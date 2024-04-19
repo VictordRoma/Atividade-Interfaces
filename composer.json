@@ -1,0 +1,10 @@
+{
+    "name": "roma/atividadeinterface",
+    "autoload": {
+        "psr-4": {
+            "M\\": "Mensagem/",
+            "P\\": "Personagero/"
+        }
+    },
+    "require": {}
+}
